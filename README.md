@@ -1,6 +1,7 @@
 # QOSF-Mentorship-Program-Test-Selection
 QOSF Mentorship Program Test/Selection Task Question 1 Solution
-Task 1 State Vector simulation of quantum circuits
+
+**Task 1 State Vector simulation of quantum circuits**
 
 For this task, you will implement a state vector simulator for quantum circuits from scratch. The goal is to demystify how to simulate a quantum computer and to demonstrate your familiarity with quantum circuits.
 
